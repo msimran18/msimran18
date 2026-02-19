@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm SSIMRAN from Kolhapur <br><br>- 📚 I'm currently learning Data Analytics with GenAi<br>- ⚡ In my free time I explore new tech world</p>
+<p align="left">I'm S.SIMRAN from Kolhapur <br><br>- 📚 I'm currently learning Data Analytics with GenAi<br>- ⚡ In my free time I explore new tech world</p>
 
 ###
 
