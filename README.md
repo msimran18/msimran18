@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm MSHIVRAJ from Kolhapur <br><br>- 📚 I'm currently learning Data Science with GenAi<br>- ⚡ In my free time I explore new tech world</p>
+<p align="left">I'm MSIMRAN from Kolhapur <br><br>- 📚 I'm currently learning Data Analytics with GenAi<br>- ⚡ In my free time I explore new tech world</p>
 
 ###
 
